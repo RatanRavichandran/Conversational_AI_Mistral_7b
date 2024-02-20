@@ -1,5 +1,5 @@
 # Conversational_AI_Mistral_7b
-Using the Mistral 7b LLM to converse with and extract information from academic reports (Experimental)
+Using the Mistral 7b LLM to converse with and extract information from academic reports
 
 
 ## About Mistral
